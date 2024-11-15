@@ -1,0 +1,2 @@
+[Thu Nov 14 16:00:43.440455 2024] [fcgid:warn] [pid 1896:tid 1244] [client 127.0.0.1:64724] mod_fcgid: read timeout from pipe
+[Thu Nov 14 16:00:43.440817 2024] [core:error] [pid 1896:tid 1244] [client 127.0.0.1:64724] End of script output before headers: wp-cron.php
