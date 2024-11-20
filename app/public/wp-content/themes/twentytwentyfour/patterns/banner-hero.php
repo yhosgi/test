@@ -4,7 +4,7 @@
  * Slug: twentytwentyfour/banner-hero
  * Categories: banner, call-to-action, featured
  * Viewport width: 1400
- * ss
+ * eaaaaaa
  * Description: A hero section with a title, a paragraph, a CTA button, and an image.
  */
 ?>
